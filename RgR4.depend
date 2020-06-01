@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1590503068 source:c:\users\andyu\desktop\rgr4\main.cpp
+	<SFML/Graphics.hpp>
+	<string>
+	<iostream>
+	<fstream>
+	<cmath>
+	"Graph.h"
+	"Link.h"
+
+1590234456 c:\users\andyu\desktop\rgr4\node.h
+
+1590482671 c:\users\andyu\desktop\rgr4\link.h
+
+1590482661 c:\users\andyu\desktop\rgr4\graph.h
+
